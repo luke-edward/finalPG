@@ -53,9 +53,8 @@ const Hero = ({
                 className="m-0 mb-32 reveal-from-bottom"
                 data-reveal-delay="400"
               >
-                The new innovative AI-powered 🤖 fitness app 🏋️ that accurately
-                tracks form 💪🏽 and prevents injury 🤕. Try out our demo below{" "}
-                <span role="img">👇🏽 </span>
+                The new innovative AI-powered fitness app that accurately tracks
+                form and prevents injury. Try out our demo below
               </p>
             </div>
           </div>
