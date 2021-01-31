@@ -2,5 +2,5 @@
 
 ## Live demo
 
-Check the live demo here 👉️ [https://luke-edward.github.io/pocketgym/](https://luke-edward.github.io/pocketgym/)
+Check the live demo here 👉️ [https://pocketgym.netlify.app/](https://pocketgym.netlify.app/)
 # finalPG
